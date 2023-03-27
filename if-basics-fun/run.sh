@@ -1,3 +1,3 @@
 #!/bin/bash
 
-julia src/main.julia
+julia src/main.jl

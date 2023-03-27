@@ -1,3 +1,3 @@
 #!/bin/bash
 
-julia --threads 4 src/main.julia
+julia --threads 4 src/main.jl
