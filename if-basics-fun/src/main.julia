@@ -9,3 +9,5 @@ function tell(x)
 end
 
 tell(19)
+y=10
+println( y > 10 ? "y is bigger than 10" : "y is smaller than 10")
