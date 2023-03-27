@@ -12,3 +12,8 @@ function ∑(s)
     uppercase(s)
 end    
 println(∑("aaa"))
+
+function minus(a,b)::Int64
+    a - b
+end
+println("a-b==$(minus(10,5))")
