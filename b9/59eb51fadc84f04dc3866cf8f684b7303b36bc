@@ -1,0 +1,23 @@
+random-fun/run.sh
+  s_6a5633ebc9de01::t_9f2da152c9665f 1-3
+random-fun/src/main.jl
+  s_6a5633ebc9de01::t_08847040b773ab 1-23
+random-fun/README.md
+  s_6a5633ebc9de01::t_9f2da152c9665f 1
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.6",
+  "base_commit_sha": "b959eb51fadc84f04dc3866cf8f684b7303b36bc",
+  "prompts": {},
+  "sessions": {
+    "s_6a5633ebc9de01": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "b5b0c2a5-c0f5-483d-bfc4-bf35755ceeea",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "diegopacheco <diego.pacheco.it@gmail.com>"
+    }
+  }
+}
