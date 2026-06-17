@@ -1,0 +1,23 @@
+recursion-fun/src/main.jl
+  s_6a5633ebc9de01::t_22a924ce9bbf2f 1-26
+recursion-fun/README.md
+  s_6a5633ebc9de01::t_9f2da152c9665f 1
+recursion-fun/run.sh
+  s_6a5633ebc9de01::t_9f2da152c9665f 1-3
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.7",
+  "base_commit_sha": "43c6d53d1be8bd17e483ef24be19ab0576324c09",
+  "prompts": {},
+  "sessions": {
+    "s_6a5633ebc9de01": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "b5b0c2a5-c0f5-483d-bfc4-bf35755ceeea",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "diegopacheco <diego.pacheco.it@gmail.com>"
+    }
+  }
+}
