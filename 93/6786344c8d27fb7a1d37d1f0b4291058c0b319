@@ -1,0 +1,23 @@
+sorting-fun/run.sh
+  s_6a5633ebc9de01::t_9f2da152c9665f 1-3
+sorting-fun/README.md
+  s_6a5633ebc9de01::t_9f2da152c9665f 1
+sorting-fun/src/main.jl
+  s_6a5633ebc9de01::t_73de0f0c18c343 1-19
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.9",
+  "base_commit_sha": "936786344c8d27fb7a1d37d1f0b4291058c0b319",
+  "prompts": {},
+  "sessions": {
+    "s_6a5633ebc9de01": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "b5b0c2a5-c0f5-483d-bfc4-bf35755ceeea",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "diegopacheco <diego.pacheco.it@gmail.com>"
+    }
+  }
+}
